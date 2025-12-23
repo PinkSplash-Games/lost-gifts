@@ -1,2 +1,2 @@
-# lost-gifts
+# Lost Gifts
 Minecraft Minigame
